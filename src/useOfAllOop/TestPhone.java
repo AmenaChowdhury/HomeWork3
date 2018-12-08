@@ -101,7 +101,9 @@ public class TestPhone {
         System.out.println("Total price for 2 configuration of ConfiguredIphone6: "+cip6a.materials(217,195));
         ConfiguredIphone6 cip6b = new ConfiguredIphone6();
         System.out.println("Total price for 3 configuration of ConfiguredIphone6: "+cip6b.materials(217,195, "78"));
-// Iphone2 inherit Iphone, Iphone4 inherit Iphone --- Hierarchical Inheritance
+
+
+        // Iphone2 inherit Iphone, Iphone4 inherit Iphone --- Hierarchical Inheritance
 // Iphone6 inherit Iphone4 inherit Iphone 2 inherit Iphone --- multilevel Inheritance
 // Iphone2 inherit Iphone--- single Inheritance
 //Iphone  -- super Class
